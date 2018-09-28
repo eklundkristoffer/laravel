@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel on steroids
+                    Laravel on steroids 222
                 </div>
 
                 <div class="links">
